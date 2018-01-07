@@ -5,8 +5,13 @@ change again
 hello git
 make m dev
 <<<<<<< HEAD
+<<<<<<< HEAD
 diffrent from dev
 =======
 do some change
 >>>>>>> feat
 interesting
+=======
+change in dev
+>>>>>>> dev
+last change
