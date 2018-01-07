@@ -4,4 +4,9 @@ love you:wq
 change again
 hello git
 make m dev
+<<<<<<< HEAD
 diffrent from dev
+=======
+do some change
+>>>>>>> feat
+interesting
